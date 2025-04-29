@@ -30,8 +30,8 @@ A cross-platform mobile app that enhances your vocabulary by displaying a new wo
 ### Setup  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/your-username/word-of-the-day.git  
-   cd word-of-the-day  
+   git clone https://github.com/anshum12345/Arthalfa_Assignment.git  
+   cd WordOfTheDay  
    ```  
 
 2. Install dependencies:  
